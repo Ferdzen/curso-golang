@@ -1,0 +1,1 @@
+*** Repositório de registros de estudo da Linguagem GO
